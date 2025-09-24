@@ -1,0 +1,14 @@
+langchain_groq
+streamlit
+langchain
+sentence-transformers
+pypdf
+
+langchain-openai
+langchain>=0.2.0
+openai
+faiss-cpu
+langchain-community
+streamlit
+python-dotenv
+tiktoken
